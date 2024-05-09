@@ -58,3 +58,11 @@ services:
   packages:
   - name: WxAdvanced
     version: "1.0"
+- serviceName: project.miun_trial3.integrations:e6
+  packages:
+  - name: MIUN_trial3Project
+    version: "1.0"
+  - name: webmethods-integrationserver-wxssh
+    version: "1.0"
+  - name: WxAdvanced
+    version: "1.0"
