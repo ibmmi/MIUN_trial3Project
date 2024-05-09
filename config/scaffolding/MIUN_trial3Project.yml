@@ -38,3 +38,23 @@ services:
   packages:
   - name: WxAdvanced
     version: "1.0"
+- serviceName: wx.advanced.is:describeRuntime
+  packages:
+  - name: WxAdvanced
+    version: "1.0"
+- serviceName: wx.advanced.env:getEnvProp
+  packages:
+  - name: WxAdvanced
+    version: "1.0"
+- serviceName: wx.advanced.env:getSysPropsList
+  packages:
+  - name: WxAdvanced
+    version: "1.0"
+- serviceName: wx.advanced.env:getSysProp
+  packages:
+  - name: WxAdvanced
+    version: "1.0"
+- serviceName: wx.advanced.sh:exec
+  packages:
+  - name: WxAdvanced
+    version: "1.0"
