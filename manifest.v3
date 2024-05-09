@@ -9,17 +9,18 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="webmethods-integrationserver-wxssh">1.0</value>
+    <value name="WxAdvanced">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">3</value>
+  <value name="build">4</value>
   <null name="description"/>
   <value name="created_date">09-05-2024 10:34:49 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-05-09T14:53:40.045643445Z</value>
+  <value name="lastUpdated">2024-05-09T17:07:32.949294471Z</value>
   <value name="wmProjectId">flb600c82a8ae126e191c942</value>
   <value name="creator">Mihai Ungureanu</value>
 </Values>

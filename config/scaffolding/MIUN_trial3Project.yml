@@ -12,3 +12,19 @@ packages:
   gitUrl: https://github.com/SoftwareAG
   gitUsername: miunsag
   gitBranch: master
+- name: WxAdvanced
+  gitServerName: MIUNSAG_GH
+  gitUrl: https://github.com/miunsag
+  gitUsername: miunsag
+  gitBranch: main
+services:
+- serviceName: project.miun_trial3.integrations:Trial5
+  packages:
+  - name: MIUN_trial3Project
+    version: "1.0"
+  - name: webmethods-integrationserver-wxssh
+    version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.804
