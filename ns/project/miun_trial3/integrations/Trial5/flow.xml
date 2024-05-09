@@ -573,7 +573,7 @@
 </MAP>
 </INVOKE>
 
-<INVOKE NAME="WxAdvanced" SERVICE="wx.advanced.env:getEnvPropsList">
+<INVOKE NAME="WxAdvanced" SERVICE="wx.advanced.is:describeRuntime">
   <COMMENT></COMMENT>
 </INVOKE>
 </FLOW>

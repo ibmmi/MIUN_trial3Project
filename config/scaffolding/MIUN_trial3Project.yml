@@ -34,3 +34,7 @@ services:
   packages:
   - name: WxAdvanced
     version: "1.0"
+- serviceName: wx.advanced.env:getEnvPropsList
+  packages:
+  - name: WxAdvanced
+    version: "1.0"

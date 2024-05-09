@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">miunsag</value>
-    <value name="lastModifiedDate">1715274854041</value>
+    <value name="lastModifiedDate">1715276115656</value>
     <value name="displayName">Trial5</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -126,9 +126,9 @@
           <null name="services"/>
         </record>
         <record name="serviceName" javaclass="com.wm.util.Values">
-          <value name="description">wx.advanced.env:getEnvPropsList</value>
-          <value name="serviceName">wx.advanced.env:getEnvPropsList</value>
-          <value name="displayName">getEnvPropsList</value>
+          <value name="description">wx.advanced.is:describeRuntime</value>
+          <value name="serviceName">wx.advanced.is:describeRuntime</value>
+          <value name="displayName">describeRuntime</value>
         </record>
         <null name="outputMapSet"/>
         <null name="mapSet"/>
