@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/miunsag/MIUN_trial3Project
   gitUsername: miunsag
   gitBranch: main
+- name: webmethods-integrationserver-wxssh
+  gitServerName: MIUNSAG_GH
+  gitUrl: https://github.com/SoftwareAG
+  gitUsername: miunsag
+  gitBranch: master
