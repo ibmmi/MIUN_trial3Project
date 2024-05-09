@@ -24,7 +24,13 @@ services:
     version: "1.0"
   - name: webmethods-integrationserver-wxssh
     version: "1.0"
+  - name: WxAdvanced
+    version: "1.0"
 - serviceName: pub.flow:debugLog
   packages:
   - name: WmPublic
     version: 11.0.0.0.804
+- serviceName: wx.advanced.flow:invoke
+  packages:
+  - name: WxAdvanced
+    version: "1.0"
