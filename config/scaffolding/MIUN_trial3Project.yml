@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: MIUN_trial3Project
+  gitServerName: MIUNSAG_GH
+  gitUrl: https://github.com/miunsag/MIUN_trial3Project
+  gitUsername: miunsag
+  gitBranch: main
