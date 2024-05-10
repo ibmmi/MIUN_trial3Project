@@ -61,3 +61,9 @@ services:
     version: "1.0"
   - name: WxAdvanced
     version: "1.0"
+- serviceName: project.miun_trial3.integrations:i7
+  packages:
+  - name: MIUN_trial3Project
+    version: "1.0"
+  - name: WxAdvanced
+    version: "1.0"
